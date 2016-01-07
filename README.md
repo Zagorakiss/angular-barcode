@@ -5,4 +5,4 @@ AngularJS directive that creates code39 barcodes based on the Antonello Pasella'
 
 # Demo
 
-Try Angular barcode using this [online demo](http://devmuerto.com/angular-barcode/).
+Try Angular barcode using this [online demo](http://devmuerto.com/barcode-gen/).
